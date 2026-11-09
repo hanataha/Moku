@@ -2,7 +2,7 @@
 
 A phone-friendly study site for the 木材加工技能評価試験 実技 初級 (exam date: 2026-12-10).
 
-Live: https://hanataha.github.io/moku/
+Live: https://hanataha.github.io/Moku/
 
 ## What's inside
 - **ホーム**: exam countdown, today's quiz, streak.
